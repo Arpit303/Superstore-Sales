@@ -12,5 +12,5 @@ Key Insights and Features :-
 
 Tools and Technologies :-
 
-Power BI: Dashboard creation and data visualization.
-Excel: Data cleaning and preparation.
+1. Power BI: Dashboard creation and data visualization.
+2. Excel: Data cleaning and preparation.
